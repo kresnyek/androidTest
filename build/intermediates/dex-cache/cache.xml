@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_ff533892ab82388b24a8d3a0e96e379a819ce1c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_f11bcc7390a60e39256db0d99ded1325c76c73e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0fbd86f5f5a9919b2d9e00eeb8e0dbaf93e89c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_11586c99bae2a942d66bed768097ef8c4836c557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_f095c5e8842629233f3274cde9394357661d9d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3efb672377bc7cd7ea5aa5eea9fb959a508db0c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4b44470493edfc354f64a5caa0e4689747c99b3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_039f008576efebbdddf056e634f5a2f0946eb03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\libs\RobotLibrary.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5624e9a7d4a29f6fbbe6b4c7f26d33b4043af1">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\RobotLibrary_92a4b066a75c22d0bb52c1542e8b4e987026ba20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_284049f8bc63d5708619398b05aea592554489a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d16fcd2bac37a685d450789e48558bb647febbf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_30d21b6ff8e53ad7ba4715488a7ced9f81f49d91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.1_5d975b470db4d15402044b8cc3af0a8475a5883c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_33156cf00c089d8764308a99657add6f60bf15fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_b35fc2c32ad694e22750207dab29689dccc8c0f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_f37389a16039a6163fca5a3ab7b94f4b54eab6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_28f2b0b2380ada93676be36e777ee261049c1aef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f9408da1bb6c149a5e66ab8892c27bc1836c426f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_04b90585c79846efdc1db694be1c08874fe0fe0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cassie\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_058518ebec94b618b3d37a4337866a9e43a60bb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_ba2867a36cddcee3522890ab2bdb264bf6aa544a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\libs\RobotLibrary.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5624e9a7d4a29f6fbbe6b4c7f26d33b4043af1">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\RobotLibrary_e2feae9c24e03ba4a9d7edbaa600c7114d798031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_0b243e3088d3c920275730ddc1c5f19df2f19d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_763b40073473e58aa84c05b7292a0a7a4a656968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_53512fed720ceb79154804f68bb98407a7612a75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_3c54c8da8805052999ae02b144db36e6e7026dd0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_acb4d0b6ea6daa831d2c7805a2a64bb1bcbb853c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-25.0.1_dc42b040bd2d29e6837290cff1e0c8c83f579203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_0d5629f1206967c59b72bc758511b52e2d1b5d6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_d2f47fb0a67170bc19c44d19d06859390fca031d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_9466d0f55cc595c9cb91c2e5192fd98b340ddb9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_769cd4d9bcc88e9661bb94a5832f221715bdd790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cassie\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_a6b57ebae30695efaa120f80ca7b1f077a23c77e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_fcd1f0e9f7f67a697d180d9172ec93a618017745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat2\Application\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\drone\BluetoothChat2\Application\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_8fe3871752bfbc6aad4e78ec88cca9102aedd5fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_c7d726fd2e0d2f40dcafb7f1d2ef1ac30055bf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\drone\BluetoothChat\Application\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\drone\BluetoothChat\Application\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_bd745ebdd100c9e8b9dfbabcd485cf502abb3223.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\drone\\BluetoothChat2\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\activity_main.xml",
+        "source": "C:\\drone\\BluetoothChat2\\Application\\src\\main\\res\\layout-w720dp\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\drone\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\layout-w720dp-v13\\activity_main.xml",
+        "source": "C:\\drone\\BluetoothChat\\Application\\src\\main\\res\\layout-w720dp\\activity_main.xml"
+    }
+]
